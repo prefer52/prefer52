@@ -1,16 +1,13 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Preper's%20Github&fontSize=80&fontAlignY=40)
+> Hi, I’m Seonho!
+> 
+> I’m a backend developer specializing in Java, Kotlin, and Python.
 
-<!--
-**prefer52/prefer52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Skill
+| Language | **`Java`**, **`Kotlin`**, **`Python`**, **`C`**, **`C++`** |
+| --- | --- |
+| Framework | **`Spring Boot`**, **`FastAPI`**, **`Langchain`** |
+| Infra/DevOps | **`Github Action`**, **`Docker`**, **`Nginx`**, **`AWS`** |
+| Database | **`MySQL`**, **`Redis`** |
+| Tool | **`Git/Github`**, **`Jira`**, **`Notion`**, **`Slack`**, **`Discord`** |
+| IDE | **`IntelliJ IDEA`**, **`PyCharm`**, **`Visual Studio Code`**, **`Cursor`** |
