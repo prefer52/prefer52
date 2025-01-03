@@ -4,8 +4,9 @@
 > I’m a backend developer specializing in Java, Kotlin, and Python.
 
 ## ⚙️ Skill
-| Language | **`Java`**, **`Kotlin`**, **`Python`**, **`C`**, **`C++`** |
+| TYPE | LIST |
 | --- | --- |
+| Language | **`Java`**, **`Kotlin`**, **`Python`**, **`C`**, **`C++`** |
 | Framework | **`Spring Boot`**, **`FastAPI`**, **`Langchain`** |
 | Infra/DevOps | **`Github Action`**, **`Docker`**, **`Nginx`**, **`AWS`** |
 | Database | **`MySQL`**, **`Redis`** |
