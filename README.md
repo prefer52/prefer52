@@ -4,9 +4,9 @@
 > I’m a backend developer specializing in Java, Kotlin, and Python.
 
 ## 💡 Core Values
-- Constructive conflict
-- Objectivity in technical decision-making
-- Flexible receptiveness to feedback and change
+- **Constructive conflict**
+- **Objectivity in technical decision-making**
+- **Flexible receptiveness to feedback and change**
 
 ## ⚙️ Skill
 | TYPE | LIST |
