@@ -2,11 +2,13 @@
 > Hi, I’m Seonho!
 > 
 > I’m a backend developer specializing in Java, Kotlin, and Python.
+<p>ㅤ</p>
 
 ## 💡 Core Values
 - **Constructive conflict**
 - **Objectivity in technical decision-making**
 - **Flexible receptiveness to feedback and change**
+<p>ㅤ</p>
 
 ## ⚙️ Skill
 | TYPE | LIST |
